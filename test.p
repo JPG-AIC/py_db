@@ -1,0 +1,16 @@
+(dp0
+S'age'
+p1
+(lp2
+S'jordna'
+p3
+asS'type'
+p4
+(lp5
+I19
+asS'name'
+p6
+(lp7
+S'water'
+p8
+as.
